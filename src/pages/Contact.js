@@ -6,10 +6,8 @@ import Form from "../components/Form";
 function Contact() {
   return (
     <div>
-      <Navbar />
       <Hero2 heading="CONTACT US." text="Lets have a chat!" />
       <Form />
-      <Footer />
     </div>
   );
 }

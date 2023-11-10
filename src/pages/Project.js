@@ -8,11 +8,9 @@ import Work from "../components/Work";
 function Project() {
   return (
     <div>
-      <Navbar />
       <Hero2 heading="PROJECTS." text="Some of my most recent works" />
       <Work />
       <PricingCard />
-      <Footer />
     </div>
   );
 }

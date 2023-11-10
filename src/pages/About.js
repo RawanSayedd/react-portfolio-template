@@ -7,10 +7,8 @@ import AboutContent from "../components/AboutContent";
 function About() {
   return (
     <div>
-      <Navbar />
       <Hero2 heading="ABOUT." text="I'm a friendly Front-End Developer" />
       <AboutContent />
-      <Footer />
     </div>
   );
 }
